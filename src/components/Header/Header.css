@@ -1,0 +1,12 @@
+h2{
+   background: linear-gradient(#000000bf, #000000c9),url(https://www.thesportsdb.com/images/media/team/stadium/pgeutx1549800746.jpg);
+    opacity: 0.8;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    text-align: center;
+    padding-top: 85px;
+    height: 100%;
+}

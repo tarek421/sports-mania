@@ -1,0 +1,16 @@
+ .header-bg{
+      
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 100%;
+
+ }
+ .logo{
+      width: 200px;
+      margin: auto;
+      text-align: center;
+      position: relative;
+      left: 43%;
+      top: 10%;
+}
